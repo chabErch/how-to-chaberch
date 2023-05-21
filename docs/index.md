@@ -19,9 +19,9 @@ ch-<subject>-<info|warning|error>-<description>
 - `ch` — сокращение от _chaberch_
 - `<subject>` — название темы
 - `<info|warning|error>` — один из трех уровней несоблюдения:
-  - `info` — для советов
-  - `warning` — для рекомендаций
-  - `error` — для обязательных правил
+    - `info` — для советов
+    - `warning` — для рекомендаций
+    - `error` — для обязательных правил
 - `<description>` — краткое описание
 
 ### Info

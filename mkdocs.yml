@@ -5,6 +5,7 @@ theme:
 
 nav:
   - Welcome: index.md
+  - Markdown: markdown.md
 
 markdown_extensions:
   - admonition

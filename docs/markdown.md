@@ -25,6 +25,7 @@ I :heart: markdown
 
 - [markdownlint][markdownlint] —
   линтер для markdown
+
 - [Russian - Code Spell Checker][russian-code-spell-checker] —
   проверка русской орфографии
 
