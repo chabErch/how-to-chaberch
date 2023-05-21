@@ -4,4 +4,4 @@ theme:
   name: material
 
 nav:
-  - How to chaberch: index.md
+  - Welcome: index.md
