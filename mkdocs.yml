@@ -1,0 +1,7 @@
+site_name: How to chaberch
+
+theme:
+  name: material
+
+nav:
+  - How to chaberch: index.md
