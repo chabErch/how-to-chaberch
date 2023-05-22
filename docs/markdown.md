@@ -474,23 +474,6 @@ I :heart: markdown
 
 Документ должен заканчиваться пустой строкой.
 
-!!! failure "Плохо"
-
-    ```markdown
-    # Заголовок документа
-
-    Какой-то текст.
-    ```
-
-!!! success "Хорошо"
-
-    ```markdown
-    # Заголовок документа
-
-    Какой-то текст.
-
-    ```
-
 [typora]: https://typora.io/
 [wysiwyg]: https://ru.wikipedia.org/wiki/WYSIWYG
 [marktext]: https://github.com/marktext/marktext
