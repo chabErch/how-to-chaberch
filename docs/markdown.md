@@ -31,7 +31,7 @@ I :heart: markdown
 
 Ну и [настрой направляющие][vs-code-rulers].
 
-### Warning
+## Warning
 
 ### ch-md-warning-file-name-case
 
@@ -49,7 +49,7 @@ I :heart: markdown
     my-document.md
     ```
 
-### Error
+## Error
 
 
 [typora]: https://typora.io/
