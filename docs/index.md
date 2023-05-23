@@ -7,10 +7,10 @@
 другие для удобства, третье для экономии времени.
 Обосновывать не буду.
 
-## Table of content
+## Table of contents
 
 1. [Getting started][getting-started] — что надо знать для начала;
-2. [Markdown rules][md-rules] — про markdown.
+2. [Markdown rules][markdown] — про markdown.
 
 ## License
 
@@ -19,5 +19,5 @@
 Делайте с этим что хотите.
 
 [getting-started]: getting-started.md
-[md-rules]: markdown.md
+[markdown]: markdown.md
 [license]: https://github.com/chabErch/how-to-chaberch/blob/main/LICENSE
