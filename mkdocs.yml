@@ -6,6 +6,7 @@ theme:
 nav:
   - Welcome: index.md
   - Getting started: getting-started.md
+  - Base: base.md
   - Markdown: markdown.md
 
 markdown_extensions:

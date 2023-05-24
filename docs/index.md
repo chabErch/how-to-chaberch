@@ -9,8 +9,13 @@
 
 ## Table of contents
 
-1. [Getting started][getting-started] — что надо знать для начала;
-2. [Markdown rules][markdown] — про markdown.
+1. [Getting started][getting-started] — что надо знать перед началом;
+2. [Base rules][base] — базовые правила;
+3. [Markdown rules][markdown] — про markdown.
+
+## Author
+
+[chaberch][chaberch]
 
 ## License
 
@@ -19,5 +24,7 @@
 Делайте с этим что хотите.
 
 [getting-started]: getting-started.md
+[base]: base.md
 [markdown]: markdown.md
+[chaberch]: https://github.com/chabErch
 [license]: https://github.com/chabErch/how-to-chaberch/blob/main/LICENSE
