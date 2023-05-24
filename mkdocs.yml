@@ -3,7 +3,7 @@ site_name: How to chaberch
 theme:
   name: material
   palette:
-    accent: pink
+    - accent: pink
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
