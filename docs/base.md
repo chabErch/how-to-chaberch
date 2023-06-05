@@ -2,18 +2,18 @@
 
 Ну это база, без этого никуда.
 
-## Info
+## Tools
 
-### ch-base-info-try-phind
+### :information_source: ch-base-info-try-phind
 
 [Phind][phind] — поисковый движок с [AI][ai] для разработчиков.
 
 Начал пользоваться только недавно, поэтому в разделе _Info_.
 Но уже оч нравится.
 
-## Warning
+## Search
 
-### ch-base-warning-google-it-in-english
+### :warning: ch-base-warning-google-it-in-english
 
 Ищи в интернете на английском языке.
 
@@ -23,7 +23,7 @@
 !!! failure "Не надо так"
 
     _Основано на реальном диалоге_
-    
+
     ```mermaid
     sequenceDiagram
         %%{init: { "mirrorActors": false } }%%
@@ -39,16 +39,28 @@
         Note over chaberch: По первой же ссылке <br/> сотня приложений <br/> для работы с openapi
     ```
 
-## Error
+### :no_entry: ch-base-error-dont-use-yandex
 
-### ch-base-error-i-dont-know
+Не используй Яндекс для поиска англоязычных статей.
+
+### :no_entry: ch-base-error-dont-auto-translate
+
+Не используй автоматический перевод страницы.
+
+Переводи английский текст самостоятельно.
+Используй [гугл-переводчик][google-translate] для незнакомых слов,
+и [Reverso][reverso] для незнакомых словосочетаний.
+
+## Teamwork
+
+### :no_entry: ch-base-error-i-dont-know
 
 Не притворяйся, что знаешь то, чего на самом деле не знаешь.
 
 !!! failure "Плохо"
 
     _Основано на реальном диалоге_
-    
+
     ```mermaid
     sequenceDiagram
         %%{init: { "mirrorActors": false } }%%
@@ -72,14 +84,14 @@
         Note over you: Уходит изучать REST
     ```
 
-### ch-base-error-learn-how-to
+### :no_entry: ch-base-error-learn-how-to
 
 Изучи как работать с инструментом перед тем как применять его.
 
 !!! failure "Не надо так"
 
     _Основано на реальном диалоге_
-    
+
     ```mermaid
     sequenceDiagram
         %%{init: { "mirrorActors": false } }%%
@@ -88,10 +100,10 @@
         Note over you: Пишет кривой нерабочий код<br/> на асинхронных функциях
         you-->>chaberch: Скидывает код на ревью
         chaberch->>you: Ты не понимаешь что делаешь,<br/> читай про асинхронные функции
-        you->>chaberch: "изучать всё" - как по мне напрасная трата времени,<br/> потому что я считаю, что понимаю что тут происходит 
+        you->>chaberch: "изучать всё" - как по мне напрасная трата времени,<br/> потому что я считаю, что понимаю что тут происходит
     ```
 
-### ch-base-error-obscurity
+### :no_entry: ch-base-error-obscurity
 
 Не создавай неизвестность.
 Даже отрицательный результат лучше неизвестности.
@@ -111,18 +123,6 @@
         chaberch->>you: Почему не доложил?
         you->>chaberch: Мне было неловко писать,<br/> потому что видимых результатов практической части не было<br/> и не хотелось сообщать об отсутствии результатов.<br/> А потом было неловко из-за пропущенных сроков
     ```
-
-### ch-base-error-dont-use-yandex
-
-Не используй Яндекс для поиска англоязычных статей.
-
-### ch-base-error-dont-auto-translate
-
-Не используй автоматический перевод страницы.
-
-Переводи английский текст самостоятельно.
-Используй [гугл-переводчик][google-translate] для незнакомых слов,
-и [Reverso][reverso] для незнакомых словосочетаний.
 
 [phind]: https://www.phind.com/
 [ai]: https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82
