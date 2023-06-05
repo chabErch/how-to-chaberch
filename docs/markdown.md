@@ -2,9 +2,9 @@
 
 I :heart: markdown
 
-## Info
+## Tools
 
-### ch-md-info-try-typora
+### :information_source: ch-md-info-try-typora :information_source:
 
 [Typora][typora] —
 самый классный и минималистичный [WYSIWYG][wysiwyg] редактор для markdown,
