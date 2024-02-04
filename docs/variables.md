@@ -40,10 +40,10 @@
 
         ```py
         # Открыто то ли модальное окно
-        isOpen = False
+        is_open = False
 
         # Есть ли у пользователя доступ
-        hasAccess = False
+        has_access = False
         ```
 
     === "Js"
