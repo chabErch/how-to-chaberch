@@ -16,40 +16,42 @@
 
     === "Python"
 
-    ```py
-    # Открыто то ли модальное окно
-    open = False
+        ```py
+        # Открыто то ли модальное окно
+        open = False
 
-    # Есть ли у пользователя доступ
-    access = False
-    ```
+        # Есть ли у пользователя доступ
+        access = False
+        ```
 
     === "Js"
 
-    ```js
-    // Открыто то ли модальное окно
-    const open = false
+        ```js
+        // Открыто то ли модальное окно
+        const open = false
 
-    // Есть ли у пользователя доступ
-    const access = false
-    ```
+        // Есть ли у пользователя доступ
+        const access = false
+        ```
 
 !!! success "Хорошо"
 
-    ```py
-    # Открыто то ли модальное окно
-    isOpen = False
+    === "Python"
 
-    # Есть ли у пользователя доступ
-    hasAccess = False
-    ```
+        ```py
+        # Открыто то ли модальное окно
+        isOpen = False
+
+        # Есть ли у пользователя доступ
+        hasAccess = False
+        ```
 
     === "Js"
 
-    ```js
-    // Открыто то ли модальное окно
-    const isOpen = false
+        ```js
+        // Открыто то ли модальное окно
+        const isOpen = false
 
-    // Есть ли у пользователя доступ
-    const hasAccess = false
-    ```
+        // Есть ли у пользователя доступ
+        const hasAccess = false
+        ```
