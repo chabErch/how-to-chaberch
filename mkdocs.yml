@@ -2,13 +2,15 @@ site_name: How to chaberch
 
 theme:
   name: material
+  features:
+    - content.tabs.link
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       primary: pink
       scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
@@ -34,6 +36,8 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
