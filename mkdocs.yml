@@ -27,6 +27,7 @@ nav:
   - Getting started: getting-started.md
   - Base: base.md
   - Markdown: markdown.md
+  - Variables: variables.md
 
 markdown_extensions:
   - admonition
